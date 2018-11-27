@@ -57,4 +57,4 @@ Here are some questions to consider:
   * `Employee.find_by_department`
     * takes a `String` argument that is the name of a department and returns the first employee whose manager is working in that department
   * `Employee#tax_bracket`
-    * returns an `Array` of all the employers whose salaries are within $1000 (± 1000) of the employer's
+    * returns an `Array` of all the employers whose salaries are within $1000 (between 9000 and 11000) (± 1000) of the employer's
